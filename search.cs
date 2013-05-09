@@ -7,6 +7,8 @@ using System.IO;
 using System.Numerics;
 using System.Collections;
 using System.EnterpriseServices;
+//Эта строка для проверки работы веток на github
+
 /*
 [assembly: Guid("b50eb73d-7977-4c4c-8216-686fd4d454fc")]
 [assembly: ApplicationID("b50eb73d-7977-4c4c-8216-686fd4d454fc")]
