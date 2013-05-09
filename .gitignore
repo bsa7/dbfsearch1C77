@@ -8,6 +8,9 @@
 bin/
 tmp/
 *.tmp
+*.exe
+*.dll
+*.dbf
 *.bak
 *.swp
 *~.nib
