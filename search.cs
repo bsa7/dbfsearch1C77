@@ -10,7 +10,7 @@ using System.EnterpriseServices;
 using System.Reflection;
 using System.Runtime.InteropServices;
 
-namespace AddIn {
+namespace AddIn { //
 //namespace SlonProgs {
 /*[assembly: ComVisible(true)]
 
